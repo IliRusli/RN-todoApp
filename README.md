@@ -4,5 +4,5 @@
 
 Clone the repository and run these commands:
 
-npm install 
-react-native run-ios
+```npm install``` 
+```react-native run-ios```
